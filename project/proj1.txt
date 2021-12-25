@@ -1,0 +1,8 @@
+Github repo link: https://github.com/sarahlangleben/INFO2950
+
+Dataset ideas: City preparedness for climate change-related natural disasters: predict potential deaths, mental health in relation to climate change (eco-anxiety), human migration in response to climate change (climate refugees).
+
+Questions for reviewers: 
+Do you think a prediction based project or analysis would be better for this topic?
+What if we can't find sufficient information after we commit to a topic?
+Can we/how would we go about combining separate, unrelated datasets?
